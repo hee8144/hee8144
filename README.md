@@ -34,7 +34,7 @@
 
 ## 📌 주요 프로젝트
 
-### 🏥 병원 예약 관리 사이트 (개인 프로젝트)
+### 🏥 [병원 예약 관리 사이트 (개인 프로젝트)](https://github.com/hee8144/TEST)
 
 * **Stack**: JSP · Spring Framework · DB
 * 예약 및 회원 관리 기능 중심의 웹 서비스
@@ -43,9 +43,7 @@
 
 ---
 
-### 💬 SNS 웹 서비스 (개인 프로젝트)
-
-🔗 Repo: [https://github.com/hee8144/snsProject](https://github.com/hee8144/snsProject)
+### 💬 [SNS 웹 서비스 (개인 프로젝트)](https://github.com/hee8144/snsProject)
 
 * **Stack**: React · MUI · Node.js · Express · Socket.io · JWT
 * 게시글 작성, 이미지 업로드, CodePen URL 공유
@@ -55,9 +53,7 @@
 
 ---
 
-### ✈️ Im Ready – 여행 추천 플랫폼 (팀 프로젝트)
-
-🔗 Repo: [https://github.com/jun-000224/Spring_TeamProject](https://github.com/jun-000224/Spring_TeamProject)
+### ✈️ [Im Ready – 여행 추천 플랫폼 (팀 프로젝트)](https://github.com/jun-000224/Spring_TeamProject)
 
 * **Stack**: Spring Framework
 * **담당 기능**: 후기 게시판 · 예약 확인 · 찜 리스트
