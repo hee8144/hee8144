@@ -35,7 +35,7 @@
 
 ### 🏥 [병원 예약 관리 사이트 (개인 프로젝트)](https://github.com/hee8144/TEST)
 
-* **Stack**: JSP · Spring Framework · DB
+* **Stack** : **JSP · Spring Framework · DB**
 * 예약 및 회원 관리 기능 중심의 웹 서비스
 * 사용자 유형별 기능 분기와 예약 흐름을 고려해 화면 및 서버 로직 구현
 * 실제 서비스 이용 상황을 가정해 기능을 단계적으로 완성
@@ -44,7 +44,7 @@
 
 ### 💬 [SNS 웹 서비스 (개인 프로젝트)](https://github.com/hee8144/snsProject)
 
-* **Stack**: React · MUI · Node.js · Express · Socket.io · JWT
+* **Stack** : **React · MUI · Node.js · Express · Socket.io · JWT**
 * 게시글 작성, 이미지 업로드, CodePen URL 공유
 * 댓글, 좋아요, 팔로우 기능 구현
 * 공용 채팅 및 1:1 실시간 채팅 기능 구현
@@ -54,8 +54,8 @@
 
 ### ✈️ [Im Ready – 여행 추천 플랫폼 (팀 프로젝트)](https://github.com/jun-000224/Spring_TeamProject)
 
-* **Stack**: Spring Framework
-* **담당 기능**: 후기 게시판 · 예약 확인 · 찜 리스트
+* **Stack** : **Spring Framework**
+* **담당 기능** : 후기 게시판 · 예약 확인 · 찜 리스트
 * 공공데이터 api 를 활용한 정보 제공
 * 후기 게시글 작성 및 수정 구현
 * 후기 좋아요 기능 및 태그 필터링 구현
@@ -65,8 +65,8 @@
 
 ### 🎲 [마블문화재 (팀 프로젝트)](https://github.com/hee8144/teamproject)
 
-* **Stack**: Flutter (Dart), Firebase, Node.js (Socket.io)
-* **담당 기능**: 위젯 , 온라인 게임 기능 구현
+* **Stack** : **Flutter (Dart), Firebase, Node.js (Socket.io)**
+* **담당 기능** : 위젯 , 온라인 게임 기능 구현
 * Socket.io & Node.js 기반 실시간 동기화
 * 동적 방 관리 시스템
 
