@@ -54,9 +54,7 @@
 
 ### ✈️ [Im Ready – 여행 추천 플랫폼 (팀 프로젝트)](https://github.com/jun-000224/Spring_TeamProject)
 
-* **Stack** : **Spring Boot, Java, Vue.js, JSP, jQuery, CSS3, HTML5, JavaScript, AJAX, Oracle**
-
-RESTful API**
+* **Stack** : **Spring Boot, Java, Vue.js, JSP, jQuery, CSS3, HTML5, JavaScript, AJAX, Oracle, RESTful API**
 * **담당 기능** : 후기 게시판 · 예약 확인 · 찜 리스트
 * 공공데이터 api 를 활용한 정보 제공
 * 후기 게시글 작성 및 수정 구현
